@@ -1,7 +1,7 @@
 # 🧾Livro - Entendendo Algoritmos 
 
 <p align="center">
-  <img src="./image.png" alt="Capa do Repositório" style="max-width: 50%; height: auto;" />
+  <img src="./image.png" alt="Capa do Repositório" width="200" />
 </p>
 
 - Este repositório contém anotações e códigos baseados no livro **"Entendendo Algoritmos"** (*Grokking Algorithms*, de Aditya Bhargava). Criei o repositório para facilitar meu aprendizado com os conteúdos do livro
